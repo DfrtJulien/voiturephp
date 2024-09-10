@@ -1,8 +1,8 @@
 <?php
-    include 'app/views/partials/head.php';
+    include 'partials/head.php';
 ?>
 
 
 <?php
-    include 'app/views/partials/footer.php';
+    include 'partials/footer.php';
 ?>
